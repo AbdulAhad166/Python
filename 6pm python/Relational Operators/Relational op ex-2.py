@@ -1,0 +1,10 @@
+#Program for Relational operators in characters
+a=input("Enter the value of a: ")
+b=input("Enter the value of b: ")
+print("\t Results of Relational operators for string Data")
+print("\t a > b ={}".format(a>b))
+print("\t a < b ={}".format(a<b))
+print("\t a == b ={}".format(a==b))
+print("\t a != b ={}".format(a!=b))
+print("\t a >= b ={}".format(a>=b))
+print("\t a <= b ={}".format(a<=b))

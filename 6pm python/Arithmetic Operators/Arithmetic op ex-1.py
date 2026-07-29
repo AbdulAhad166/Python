@@ -1,0 +1,11 @@
+#program for sum of Arithmetic Operators
+a=float(input("Enter the First value: "))
+b=float(input("Enter the second value: "))
+print("Results of Arithmetic Operators")
+print("\t Sum({},{})={}".format(a,b,a+b))
+print("\t Sub({},{})={}".format(a,b,a-b))
+print("\t Mul({},{})={}".format(a,b,a*b))
+print("\t Div({},{})={}".format(a,b,a/b))
+print("\t FloorDiv({},{})={}".format(a,b,a//b))
+print("\t ModuloDiv({},{})={}".format(a,b,a%b))
+print("\t pow({},{})={}".format(a,b,a**b))

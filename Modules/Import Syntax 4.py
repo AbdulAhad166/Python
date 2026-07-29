@@ -1,0 +1,11 @@
+import MathInfo as m,AOP as ap,icici as ic
+print("Val of PI=",m.PI)
+print("Val of E=",m.E)
+print("-----------------------------")
+ap.addon(10,20)
+ap.subon(10,20)
+ap.multon(10,20)
+print("-----------------------------")
+print("Bank Name=",ic.bname)
+print("Bank Address=",ic.addr)
+ic.simpleint()

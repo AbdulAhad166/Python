@@ -1,0 +1,11 @@
+#Program for accepting List of words and find their length with map()
+print("Enter List of Words Separated By Space:  ")
+words=list(map(str,input().split(" ")))
+print("List of Words= ",words)
+wl=list(map(len,words))
+print("---------------------------")
+print("\tWords\t\t\tLength")
+print("---------------------------")
+for w,l in zip(words,wl):
+    print("\t{}\t\t{}".format(w,l))
+print("---------------------------")

@@ -1,0 +1,10 @@
+#Program for All Relational Operators for Numbers
+a=float(input("Enter the first number: "))
+b=float(input("Enter the second number: "))
+print("\t Results of Relational Operator")
+print("\t a > b ={}".format(a>b))
+print("\t a < b ={}".format(a<b))
+print("\t a == b ={}".format(a==b))
+print("\t a != b ={}".format(a!=b))
+print("\t a >= b ={}".format(a>=b))
+print("\t a <= b ={}".format(a<=b))
