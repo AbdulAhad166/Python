@@ -1,7 +1,7 @@
 #Program for Accepting Student Details and Save in File as Records
 #This Program is for Entering The Student Values in Default
 def savestudentdata():
-    with open("Stud1.data","a") as fp:
+    with open("stud1.data", "a") as fp:
         sno=int(input("Enter Student Number: "))
         name=input("Enter Student Name: ")
         marks=input("Enter Student Marks: ")
