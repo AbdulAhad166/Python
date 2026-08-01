@@ -1,0 +1,25 @@
+#Program for Demonstrating Random Access File
+#NOTE - Filepointer.tell() Gives Index of File Pointer where It is Pointed
+#NOTE - Filepointer.seek(Index) Used For Re-setting the Pointer to the Specified Index
+with open("stud1.data","r") as fp:
+    print("Initially File Pointer FP Points to: ",fp.tell())
+    filedata=fp.read(3)
+    print("File Data= ",filedata)
+    print("Now File Pointer FP Points to: ",fp.tell())
+    filedata=fp.read(6)
+    print("File Data= ",filedata)
+    print("Now File Pointer FP Points to: ",fp.tell())
+    filedata=fp.read(9)
+    print("File Data= ",filedata)
+    print("Now File Pointer FP Points to: ",fp.tell())
+    filedata=fp.read()
+    print("File Data= ",filedata)
+    print("Now File Pointer FP Points to: ",fp.tell())
+    print("-------------------------------------------------------------")
+    #Re-Set the File Pointer to Any Index using Filepointer.seek(index)
+    fp.seek(0)
+    print("Now File Pointer FP Points to: ",fp.tell())
+    filedata=fp.read(10)
+    print("File Data= ",filedata)
+    print("Now File Pointer FP Points to: ",fp.tell())
+    print("-------------------------------------------------------------")
