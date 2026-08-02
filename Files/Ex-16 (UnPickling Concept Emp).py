@@ -13,4 +13,4 @@ def loadrecord():
                 print("End Of File")
                 break
 #Main Program
-loadrecord()
+loadrecord() #Function Call
