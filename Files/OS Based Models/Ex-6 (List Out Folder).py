@@ -1,4 +1,4 @@
-#Program for Listing the Folder Data Present in folder in file---listdir()
+#Program for Listing the Folder Data Present in folder in file-------listdir()
 import os
 try:
     FolderName=input("Enter Folder Name in List Files: ")
