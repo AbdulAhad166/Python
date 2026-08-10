@@ -4,7 +4,22 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="88f83c30-b5e4-4f7c-b678-a3204991ea59" name="Changes" comment="Initial commit - Python Conditions and Loops" />
+    <list default="true" id="88f83c30-b5e4-4f7c-b678-a3204991ea59" name="Changes" comment="Initial commit - Python Conditions and Loops">
+      <change afterPath="$PROJECT_DIR$/../DataBase/Ex-5 (Oracle Table Create).py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DataBase/Ex-6 (Oracle Table Insert).py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../6pm python/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../6pm python/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/Control Loops.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Control Loops.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DataBase/Ex-1 (Oracle Connect).py" beforeDir="false" afterPath="$PROJECT_DIR$/../DataBase/Ex-1 (Oracle Connect).py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Exception Handling/.idea/Exception Handling.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../Exception Handling/.idea/Exception Handling.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Exception Handling/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Exception Handling/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Functions/.idea/Functions.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../Functions/.idea/Functions.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Functions/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Functions/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Modules/.idea/Modules.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../Modules/.idea/Modules.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Modules/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Modules/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Packages/.idea/Packages.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../Packages/.idea/Packages.iml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -24,7 +39,7 @@
         <option name="title" value="All" />
       </GitPushTagMode>
     </option>
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="GitHubPullRequestSearchHistory">{
   &quot;lastFilter&quot;: {
@@ -34,7 +49,7 @@
 }</component>
   <component name="GithubPullRequestsUISettings">{
   &quot;selectedUrlAndAccountId&quot;: {
-    &quot;url&quot;: &quot;https://github.com/AbdulAhad166/Python-Control-Flow.git&quot;,
+    &quot;url&quot;: &quot;https://github.com/AbdulAhad166/Python.git&quot;,
     &quot;accountId&quot;: &quot;0effd5ce-970d-449f-bb54-37e91f57f197&quot;
   }
 }</component>
@@ -58,88 +73,88 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ModuleVcsDetector.initialDetectionPerformed": "true",
-    "Python.Automorphic Number.executor": "Run",
-    "Python.Convert into LowerCase.executor": "Run",
-    "Python.Convert into UpperCase.executor": "Run",
-    "Python.Count of Vowels and Consonents.executor": "Run",
-    "Python.Digits Sum.executor": "Run",
-    "Python.Display words.executor": "Run",
-    "Python.Ex-1 (Display Values).executor": "Run",
-    "Python.Ex-1 (Generate 1 to N).executor": "Run",
-    "Python.Ex-1 (Implementing Arithmetic Ope).executor": "Run",
-    "Python.Ex-1 (for loop in for loop).executor": "Run",
-    "Python.Ex-10 (Digit Sum).executor": "Run",
-    "Python.Ex-10 (Display Every Char).executor": "Run",
-    "Python.Ex-11 (Fibonacci Series).executor": "Run",
-    "Python.Ex-11 (N Natural Numbers).executor": "Run",
-    "Python.Ex-12 (Squares and Cubes).executor": "Run",
-    "Python.Ex-13 (Finding nums,chars without spaces).executor": "Run",
-    "Python.Ex-14 (Sum and Avg).executor": "Run",
-    "Python.Ex-15 (Absolute Number).executor": "Run",
-    "Python.Ex-15 (Fibonacci Series).executor": "Run",
-    "Python.Ex-2 (Display Digit with Value).executor": "Run",
-    "Python.Ex-2 (Display Values using while).executor": "Run",
-    "Python.Ex-2 (Display words using while).executor": "Run",
-    "Python.Ex-2 (Generate N to 1).executor": "Run",
-    "Python.Ex-2 (Temp Conversion).executor": "Run",
-    "Python.Ex-2 (While loop in While loop).executor": "Run",
-    "Python.Ex-3 (Base Convertor).executor": "Run",
-    "Python.Ex-3 (Display the Values).executor": "Run",
-    "Python.Ex-3 (Display words).executor": "Run",
-    "Python.Ex-3 (Even Numbers).executor": "Run",
-    "Python.Ex-3 (for loop in While loop).executor": "Run",
-    "Python.Ex-4 (Digit to Display).executor": "Run",
-    "Python.Ex-4 (Even Numbers Reverse).executor": "Run",
-    "Python.Ex-4 (Even Numbers for loop).executor": "Run",
-    "Python.Ex-4 (Numericals Seperately).executor": "Run",
-    "Python.Ex-4 (Prime or Not).executor": "Run",
-    "Python.Ex-4 (While loop in for loop).executor": "Run",
-    "Python.Ex-5 (Display Value without Continue).executor": "Run",
-    "Python.Ex-5 (Even Numbers Reverse).executor": "Run",
-    "Python.Ex-5 (Multiplication Table).executor": "Run",
-    "Python.Ex-5 (Odd Numbers).executor": "Run",
-    "Python.Ex-6 (Display Value without Continue 2).executor": "Run",
-    "Python.Ex-6 (Multiplication Table for Random).executor": "Run",
-    "Python.Ex-6 (Odd Numbers Reverse).executor": "Run",
-    "Python.Ex-6 (Odd Numbers).executor": "Run",
-    "Python.Ex-6 (Vowel or Not).executor": "Run",
-    "Python.Ex-7 (Multiplication Tables).executor": "Run",
-    "Python.Ex-7 (Number of Occurences).executor": "Run",
-    "Python.Ex-7 (Odd Numbers for loop).executor": "Run",
-    "Python.Ex-8 (Display Every Char).executor": "Run",
-    "Python.Ex-8 (Number of Occurences 2).executor": "Run",
-    "Python.Ex-8 (Odd Numbers Reverse).executor": "Run",
-    "Python.Ex-9 (Multiplication Tables).executor": "Run",
-    "Python.Ex-9 (N Natural Numbers).executor": "Run",
-    "Python.Factorial Number.executor": "Run",
-    "Python.Length of Word.executor": "Run",
-    "Python.Length of Words.executor": "Run",
-    "Python.List of Values & Display.executor": "Run",
-    "Python.N Natural Numbers.executor": "Run",
-    "Python.Roman Numbers.executor": "Run",
-    "Python.Spy Number.executor": "Run",
-    "Python.Student Marks.executor": "Run",
-    "Python.Ternary op ex-2.executor": "Run",
-    "Python.Voter Eligibility.executor": "Run",
-    "Python.sample.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
-    "codeWithMe.voiceChat.enabledByDefault": "false",
-    "git-widget-placeholder": "master",
-    "last_opened_file_path": "C:/Users/dell/PycharmProjects/Control Loops/Various Problems",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "vcs.Git"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;Python.Automorphic Number.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Convert into LowerCase.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Convert into UpperCase.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Count of Vowels and Consonents.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Digits Sum.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Display words.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Ex-1 (Display Values).executor&quot;: &quot;Run&quot;,
+    &quot;Python.Ex-1 (Generate 1 to N).executor&quot;: &quot;Run&quot;,
+    &quot;Python.Ex-1 (Implementing Arithmetic Ope).executor&quot;: &quot;Run&quot;,
+    &quot;Python.Ex-1 (for loop in for loop).executor&quot;: &quot;Run&quot;,
+    &quot;Python.Ex-10 (Digit Sum).executor&quot;: &quot;Run&quot;,
+    &quot;Python.Ex-10 (Display Every Char).executor&quot;: &quot;Run&quot;,
+    &quot;Python.Ex-11 (Fibonacci Series).executor&quot;: &quot;Run&quot;,
+    &quot;Python.Ex-11 (N Natural Numbers).executor&quot;: &quot;Run&quot;,
+    &quot;Python.Ex-12 (Squares and Cubes).executor&quot;: &quot;Run&quot;,
+    &quot;Python.Ex-13 (Finding nums,chars without spaces).executor&quot;: &quot;Run&quot;,
+    &quot;Python.Ex-14 (Sum and Avg).executor&quot;: &quot;Run&quot;,
+    &quot;Python.Ex-15 (Absolute Number).executor&quot;: &quot;Run&quot;,
+    &quot;Python.Ex-15 (Fibonacci Series).executor&quot;: &quot;Run&quot;,
+    &quot;Python.Ex-2 (Display Digit with Value).executor&quot;: &quot;Run&quot;,
+    &quot;Python.Ex-2 (Display Values using while).executor&quot;: &quot;Run&quot;,
+    &quot;Python.Ex-2 (Display words using while).executor&quot;: &quot;Run&quot;,
+    &quot;Python.Ex-2 (Generate N to 1).executor&quot;: &quot;Run&quot;,
+    &quot;Python.Ex-2 (Temp Conversion).executor&quot;: &quot;Run&quot;,
+    &quot;Python.Ex-2 (While loop in While loop).executor&quot;: &quot;Run&quot;,
+    &quot;Python.Ex-3 (Base Convertor).executor&quot;: &quot;Run&quot;,
+    &quot;Python.Ex-3 (Display the Values).executor&quot;: &quot;Run&quot;,
+    &quot;Python.Ex-3 (Display words).executor&quot;: &quot;Run&quot;,
+    &quot;Python.Ex-3 (Even Numbers).executor&quot;: &quot;Run&quot;,
+    &quot;Python.Ex-3 (for loop in While loop).executor&quot;: &quot;Run&quot;,
+    &quot;Python.Ex-4 (Digit to Display).executor&quot;: &quot;Run&quot;,
+    &quot;Python.Ex-4 (Even Numbers Reverse).executor&quot;: &quot;Run&quot;,
+    &quot;Python.Ex-4 (Even Numbers for loop).executor&quot;: &quot;Run&quot;,
+    &quot;Python.Ex-4 (Numericals Seperately).executor&quot;: &quot;Run&quot;,
+    &quot;Python.Ex-4 (Prime or Not).executor&quot;: &quot;Run&quot;,
+    &quot;Python.Ex-4 (While loop in for loop).executor&quot;: &quot;Run&quot;,
+    &quot;Python.Ex-5 (Display Value without Continue).executor&quot;: &quot;Run&quot;,
+    &quot;Python.Ex-5 (Even Numbers Reverse).executor&quot;: &quot;Run&quot;,
+    &quot;Python.Ex-5 (Multiplication Table).executor&quot;: &quot;Run&quot;,
+    &quot;Python.Ex-5 (Odd Numbers).executor&quot;: &quot;Run&quot;,
+    &quot;Python.Ex-6 (Display Value without Continue 2).executor&quot;: &quot;Run&quot;,
+    &quot;Python.Ex-6 (Multiplication Table for Random).executor&quot;: &quot;Run&quot;,
+    &quot;Python.Ex-6 (Odd Numbers Reverse).executor&quot;: &quot;Run&quot;,
+    &quot;Python.Ex-6 (Odd Numbers).executor&quot;: &quot;Run&quot;,
+    &quot;Python.Ex-6 (Vowel or Not).executor&quot;: &quot;Run&quot;,
+    &quot;Python.Ex-7 (Multiplication Tables).executor&quot;: &quot;Run&quot;,
+    &quot;Python.Ex-7 (Number of Occurences).executor&quot;: &quot;Run&quot;,
+    &quot;Python.Ex-7 (Odd Numbers for loop).executor&quot;: &quot;Run&quot;,
+    &quot;Python.Ex-8 (Display Every Char).executor&quot;: &quot;Run&quot;,
+    &quot;Python.Ex-8 (Number of Occurences 2).executor&quot;: &quot;Run&quot;,
+    &quot;Python.Ex-8 (Odd Numbers Reverse).executor&quot;: &quot;Run&quot;,
+    &quot;Python.Ex-9 (Multiplication Tables).executor&quot;: &quot;Run&quot;,
+    &quot;Python.Ex-9 (N Natural Numbers).executor&quot;: &quot;Run&quot;,
+    &quot;Python.Factorial Number.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Length of Word.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Length of Words.executor&quot;: &quot;Run&quot;,
+    &quot;Python.List of Values &amp; Display.executor&quot;: &quot;Run&quot;,
+    &quot;Python.N Natural Numbers.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Roman Numbers.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Spy Number.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Student Marks.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Ternary op ex-2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Voter Eligibility.executor&quot;: &quot;Run&quot;,
+    &quot;Python.sample.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.typescript.service.memoryLimit.init&quot;: &quot;true&quot;,
+    &quot;codeWithMe.voiceChat.enabledByDefault&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/dell/PycharmProjects/Python/Control Loops&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\dell\PycharmProjects\Control Loops\Various Problems" />
@@ -355,6 +370,9 @@
     <option name="version" value="3" />
   </component>
   <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$" />
+    </ignored-roots>
     <MESSAGE value="Initial commit - Python Conditions and Loops" />
     <option name="LAST_COMMIT_MESSAGE" value="Initial commit - Python Conditions and Loops" />
   </component>
