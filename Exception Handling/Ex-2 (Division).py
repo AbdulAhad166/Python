@@ -9,7 +9,7 @@
     print("\t Division= {}".format(c))
 except TypeError:
     print("\t Do Not Enter Direct Values Convert into 'int' Data Type")"""
-#Now Using try and except with correct approach
+#Now Using try and except function with correct approach
 try:
     a=input("Enter First Value: ")
     b=input("Enter Second Value: ")

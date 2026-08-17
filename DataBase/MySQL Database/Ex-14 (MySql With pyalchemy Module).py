@@ -1,4 +1,4 @@
-#Program for Executing all the Records That are Present in the Table and using pyalchemy Module
+#Program for Executing all the Records That are Present in the Table and using pyalchemy Module and Installing It
 from sqlalchemy import create_engine, text
 engine = create_engine("mysql+pymysql://root:ahad@localhost/batch6pm")
 with engine.connect() as conn:
