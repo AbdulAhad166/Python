@@ -13,5 +13,5 @@ class Account:
         print("Account PIN:",self.__pin)
         print("Account Branch Name:", ac.bname)
 #Main Program
-ac=Account()
+ac=Account()  #Object Creation
 ac.getaccdet()

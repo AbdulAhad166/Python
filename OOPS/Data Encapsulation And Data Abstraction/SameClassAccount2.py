@@ -14,8 +14,8 @@ class Account:
         print("Account Pin: ",self.__pin)
         print("Account Branch Name: ",self.bname)
         print("-"*50)
-    def showaccdet(self):
-        self.__getaccdet()
+    def showaccdet(self):   #Here This Function does not Contain Encapsulation so this can be
+        self.__getaccdet()       #used for calling the Encapsulated Function
 
 #Main Program
 ac=Account()
