@@ -1,0 +1,20 @@
+# PyCharm
+**/.idea/
+
+# Python cache
+**/__pycache__/
+*.pyc
+*.pyo
+
+# Virtual environments
+.venv/
+**/.venv/
+venv/
+**/venv/
+
+# Pickle files
+*.pick
+# Project data files
+**/*.csv
+**/*.json
+**/*.data
