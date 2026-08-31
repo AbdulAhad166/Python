@@ -1,0 +1,1 @@
+Rossum is the author of python and whose mail id is rossum_123@psf.com , Dennis is the author of c  and whose mail id is dennis_c@bell.com and Travis is the author of numpy and whose mail id is travis_numpy@numpy.org and Kinney is the author of pandas and whose mail is is kinney_pandas@pandas.co.in and Kvr mail is kvr1.python@gmail.com
