@@ -1,4 +1,4 @@
-#Program For Searching All Values
+#Program For Searching All Values -- finditer()
 import re
 gd="BBRSBBRSBBRSBBRSBBRSBBRS"
 sp="."
