@@ -1,4 +1,4 @@
-#Program for Demonstrating Exception and using raise keyword
+#Program for Demonstrating Exception  and using raise keyword
 class NumberDivisionError(Exception):pass
 def division(a,b):
     if b==0:
