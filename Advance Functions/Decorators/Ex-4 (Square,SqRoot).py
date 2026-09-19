@@ -1,4 +1,4 @@
-#Program for Calculating Square and Square Root of Given Values using Decorator
+#Program for Calculating Square and Square Root of Given Values using Decorators
 def squareroot(calc):
     def process():
         n,sqv=calc()
