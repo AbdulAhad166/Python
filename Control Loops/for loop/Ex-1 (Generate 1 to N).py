@@ -1,4 +1,4 @@
-#program for Generating 1 to N where N is +VE
+#program for Generating 1 to N where N is +VE Numbers
 n=int(input("Enter Any Number: "))
 if n<=0:
     print("Invalid Number")
