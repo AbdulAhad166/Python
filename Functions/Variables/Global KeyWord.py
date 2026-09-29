@@ -1,4 +1,4 @@
-#Program for Demonstrating Global KeyWord
+#Program for Demonstrating Global Keyword
 def modify1():
     global a  #Here global is a keyword and to access the local variables we need to use global keyword
     a=a+1
