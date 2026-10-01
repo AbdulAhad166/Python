@@ -1,4 +1,4 @@
-#Program for Converting Dict Data To JSON Data
+#Program for Converting Dictionary Data To JSON Data
 dictobj={'ENO':'100','NAME':'Rossum','SAL':'12.55'}
 print("Dict Object Content={} Type={}".format(dictobj,type(dictobj)))
 jsonformat=str(dictobj)
