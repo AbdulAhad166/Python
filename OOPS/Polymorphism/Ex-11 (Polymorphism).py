@@ -1,4 +1,4 @@
-#Program For Finding University,College,Student Using Polymorphism--super() and Class Name Approaches
+#Program For Finding University,College,Student Using Polymorphism--super() and Class Name Approach
 class Univ:
     def getdata(self):   #Original Method
         self.uname=input("Enter University Name: ")
