@@ -3,7 +3,7 @@ import threading,time
 def Welcome(name):
     print("\t {}--->Welcome To Multi-Threading".format(threading.current_thread().name,name))
     print("\t {}--->Going To Sleep For 6 Seconds".format(threading.current_thread().name))
-    time.sleep(6)
+    time.sleep(6) 
     print("\t Coming Out of Sleep After 6 Seconds".format(threading.current_thread().name))
 #Main Program
 print("Program Execution Started: ",threading.current_thread().name)
