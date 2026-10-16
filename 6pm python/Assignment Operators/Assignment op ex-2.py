@@ -1,4 +1,4 @@
-#Program for swapping any two numbers without using Temp var
+#Program for swapping any two numbers without using Temp variable
 a=int(input("Enter the First value: "))
 b=int(input("Enter the Second value: "))
 print("\t Original value of a={}".format(a))
