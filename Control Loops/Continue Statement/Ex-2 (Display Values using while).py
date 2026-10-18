@@ -1,4 +1,4 @@
-#Program to Display PYTON From PYTHON using while loop with continue
+#Program to Display 'PYTON' From 'PYTHON' using while loop with continue
 s=input("Enter Any Value: ")
 i=0
 while i<len(s):
