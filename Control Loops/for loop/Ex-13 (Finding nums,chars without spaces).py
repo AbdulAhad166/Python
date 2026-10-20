@@ -1,4 +1,4 @@
-#Program for accepting a Line of Text and Find Number chars without spaces (Don't use spaces)
+#Program for Accepting a Line of Text and Find Number chars without spaces (Don't use spaces)
 s=input("Enter a Line of Text: ")
 L=0
 for ch in s:
