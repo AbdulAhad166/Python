@@ -1,4 +1,4 @@
-#program for Deleting the Record Based on Employee Number
+#Program for Deleting the Record Based on Employee Number
 import oracledb as orc
 def recorddelete():
     try:
