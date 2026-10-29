@@ -1,4 +1,4 @@
-#Program for Demonstrating Exception Occurrence
+#Program for Demonstrating Exception Occurrance
 try:
     a=input("Enter First Number: ")
     b=input("Enter Second Number: ")
