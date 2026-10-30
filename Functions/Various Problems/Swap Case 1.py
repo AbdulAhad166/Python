@@ -13,5 +13,5 @@ def swapcase():
         else:
             sc=sc+ch
     print("Swap Case: ",sc)
-#Main Program Function Call
+#Function Call
 swapcase()
